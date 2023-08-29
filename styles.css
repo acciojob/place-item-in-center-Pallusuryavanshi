@@ -1,5 +1,5 @@
 /* Your CSS Code here. */
-.holder{
+.holder {
     width:100vw;
 	height:100vh;
 	display:flex;
@@ -8,6 +8,7 @@
 	
 }
 .item-1{
+	
 	background:red;
 	width:100px;
 	height:100px;
