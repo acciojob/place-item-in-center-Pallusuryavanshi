@@ -5,13 +5,13 @@
 	display:flex;
 	justify-content:center;
 	align-items:center;
-	
+	display:inline-flex;
 }
 .item-1{
-	
 	background:red;
 	width:100px;
 	height:100px;
+	text-align:center;
 }
 
  
